@@ -6,7 +6,7 @@ Graduated in Information Systems and currently focused on Machine Learning with 
 
 #### Certifications:
 
-- AZ-900
+- AZ-900 (Miscrosoft Azure Fundamentals)
 - GitHub Foundations
 
 #### Sites:
@@ -15,4 +15,4 @@ Graduated in Information Systems and currently focused on Machine Learning with 
 - Read short articles on [Medium](https://medium.com/@marcostuliobr)
 - Like photography? Check out the portfolio
   - [Adobe Stock](https://stock.adobe.com/pt/contributor/206477701/Marcos%20Dultra)
-  - [Pixels](https://www.pexels.com/@mtcd/highlights/)
+  - [Pexels](https://www.pexels.com/@mtcd/highlights/)
