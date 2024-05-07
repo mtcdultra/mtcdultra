@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**mtcdultra/mtcdultra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programmer always looking for solutions, amateur photographer, hiker, passionate about music and an avid reader.
 
-Here are some ideas to get you started:
+Graduated in Information Systems and currently focused on Machine Learning with Python language, cloud solutions using Azure and its entire ecosystem, enthusiastic about front-end using React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Certifications:
+
+- AZ-900
+- GitHub Foundations
+
+Sites:
+
+- Check out updated Python packages [here](https://pythonpackages.dev/)
+- Read short articles on [Medium](https://medium.com/@marcostuliobr)
+- Like photography? Check out the portfolio
+  - [Adobe Stock](https://stock.adobe.com/pt/contributor/206477701/Marcos%20Dultra)
+  - [Pixels](https://www.pexels.com/@mtcd/highlights/)
