@@ -4,12 +4,12 @@ I'm a programmer always looking for solutions, amateur photographer, hiker, pass
 
 Graduated in Information Systems and currently focused on Machine Learning with Python language, cloud solutions using Azure and its entire ecosystem, enthusiastic about front-end using React.
 
-### Certifications:
+#### Certifications:
 
 - AZ-900
 - GitHub Foundations
 
-### Sites:
+#### Sites:
 
 - Check out updated Python packages [here](https://pythonpackages.dev/)
 - Read short articles on [Medium](https://medium.com/@marcostuliobr)
