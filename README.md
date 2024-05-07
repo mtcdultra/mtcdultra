@@ -6,7 +6,7 @@ Graduated in Information Systems and currently focused on Machine Learning with 
 
 #### Certifications:
 
-- AZ-900 (Miscrosoft Azure Fundamentals)
+- AZ-900 (Microsoft Azure Fundamentals)
 - GitHub Foundations
 
 #### Sites:
