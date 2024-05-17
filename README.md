@@ -8,7 +8,7 @@ Graduated in Information Systems and currently focused on Machine Learning with 
 
 - AZ-900 (Microsoft Azure Fundamentals)
 - AI-900 (Microsoft Azure AI Fundamentals)
-- DP-900 (Microsodr Azure Data Fundamentals)
+- DP-900 (Microsoft Azure Data Fundamentals)
 - GitHub Foundations
 
 #### Sites:
