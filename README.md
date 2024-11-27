@@ -13,7 +13,7 @@ Graduated in Information Systems and currently focused on Machine Learning with 
 
 #### Sites:
 
-- Check out updated Python packages [here](https://pythonpackages.dev/)
+- Check out updated Python packages <a href="https://pythonpackages.dev/" target="_blank">here</a>
 - Read short articles on [Medium](https://medium.com/@marcostuliobr)
 - Like photography? Check out the portfolio
   - [Adobe Stock](https://stock.adobe.com/pt/contributor/206477701/Marcos%20Dultra)
